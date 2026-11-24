@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this profile, please cite it using the metadata from this file."
+type: software
+title: "A SysML Profile for Annotating PDDL Planning Semantics"
+authors:
+  - family-names: Nabizada
+    given-names: Hamied
+    orcid: "https://orcid.org/0000-0001-8251-837X"
+repository-code: "https://github.com/HamiedNabizada/pddl-sysml-profile"
+license: CC-BY-4.0
+abstract: "A SysML profile for annotating SysML models with PDDL planning semantics. The profile provides stereotypes for types, predicates, functions, actions, and initial and goal states, and it checks the annotation with OCL constraints. Built and tested with Magic Systems of Systems Architect (MSoSA) 2024x."
+keywords:
+  - SysML
+  - PDDL
+  - automated planning
+  - model-based systems engineering
